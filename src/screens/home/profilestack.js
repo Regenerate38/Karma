@@ -2,8 +2,6 @@ import { StyleSheet, Text, View } from 'react-native'
 import React from 'react'
 import { createStackNavigator } from '@react-navigation/stack';
 import Profile from './profile';
-import Postdetail from './postdetail';
-import MoreCategories from './MoreCategories';
 
 
 const ProfileStackBar = createStackNavigator()
